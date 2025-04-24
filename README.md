@@ -12,7 +12,6 @@ This is a fun and colorful web project that shows off some interesting ice cream
 
 - **HTML**: Structure of the web page and flavor content.
 - **CSS**: Styling for colorful layout, animations, and visual design.
-- **JavaScript**: Handles dynamic display of nutrition info and background music playback.
 
 ## How to Run
 
